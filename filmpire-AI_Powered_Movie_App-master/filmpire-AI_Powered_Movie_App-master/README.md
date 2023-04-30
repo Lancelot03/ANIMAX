@@ -1,4 +1,4 @@
-# FILMPIRE - Shubham Kadam
+# ANIMAX
 
 [View Demo](https://filmpire-ssk.netlify.app/)
 
