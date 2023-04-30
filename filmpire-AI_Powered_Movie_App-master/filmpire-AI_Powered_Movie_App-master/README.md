@@ -1,4 +1,4 @@
-# ANIMAX
+# ANIMEX
 
 [View Demo](https://filmpire-ssk.netlify.app/)
 
