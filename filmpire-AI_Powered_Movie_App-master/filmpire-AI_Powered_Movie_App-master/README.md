@@ -40,7 +40,7 @@ Setup:
 1. Get a free TMDB API Key at [https://www.themoviedb.org/](https://www.themoviedb.org/).
 2. Clone the repo:
     ```sh
-    git clone https://github.com/ShubhamSKadam/filmpire-AI_Powered_Movie_App.git
+    git clone https://github.com/Lancelot03/ANIMEX.git
     ```
 3. Install NPM packages:
     ```sh
